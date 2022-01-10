@@ -1,27 +1,31 @@
-# KevCastillo19
+# 👋 Hola, Mi nombre es Kevin Castillo y soy desarrollador web!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
+👀 Me encanta el desarrollo web desde el **backend** hasta el **frontend** y mi objetivo es seguir creciendo y formandome como desarrollador de software
 
-## Development server
+📖 Tengo conocimientos las siguientes tecnologías:
+  
+**🖥️ FRONTEND:**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+-   Maquetación web - HTML5, CSS3, Bootstrap
+-   JavaScript - React Js, Angular Js
+-   Maquetación con WordPress - Divi, Slider Revolutions, Elementor, Contact Form 7
 
-## Code scaffolding
+**👨‍💻 BACKEND:**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-   PHP
+-   Java - desarrollo de API RestFull con Spring Boot
+-   JavaScript -Desarrollo de API RestFull con Express Node Js
+-   MySQL
 
-## Build
+**🤖 CONTROL DE VERSIONES:**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-   Git, Github, Gitlab, Bitbucket
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🌱 Actualmente estoy reforzando mis conocimientos en Node Js y Angular... Tengo como planes a futuro dominar otras tecnologías del lado de backend como Laravel y del lado del frontend como React Js y Vue JS
 
-## Running end-to-end tests
+💞️ Me gustaría colaborar en proyectos de desarrollo, en los cuales pueda poner en marcha todos mis conocimientos y aprender mucho mas a cerca de estas tecnologías
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🏁 Siempre estoy en la búsqueda de nuevos conocimientos... Para mi, el desarrollo de web es un mundo completamente diferente y quiero conocer cada rincón de el!
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+📫 Puedes contactarme a mi corre personal (sypecr@gmail.com) o a mi correo profesional (kevincastillo.jh@gmail.com)
