@@ -1,0 +1,10 @@
+hr {
+  opacity: 0;
+}
+
+#tec {
+  text-align: center;
+  font-weight: bold;
+  color: #20232A;
+  font-size: 42px;
+}
